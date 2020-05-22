@@ -1,0 +1,6 @@
+name: UNO
+version: ${project.version}
+main: io.github.tererun.plugin.uno.uno.UNO
+api-version: 1.13
+authors: [tererun]
+description: UNO
